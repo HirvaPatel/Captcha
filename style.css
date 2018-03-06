@@ -1,0 +1,49 @@
+body{
+	 background-image: url("bg.png");
+	background-repeat: no-repeat;
+	background-position: bottom;
+	background-size: 1000px;
+}
+form{
+	margin: 125px 525px 175px 525px;
+	padding-left: 10px;
+	padding-right: 10px;
+	background-color: #5C5A59;
+
+	border: 1px solid #ddd;
+    border-radius: 20px;
+    
+}
+.icon{
+	    width: 30px;
+	    height: 30px;
+}
+.img
+{
+	margin-left: 80px;
+}
+table{
+	margin-left: 50px;
+	margin-bottom: 0px;
+}
+h2{
+	color: white;
+	font-family: AR BONNIE;
+	font-size: 50px;
+}
+.details{
+	color: white;
+	background-color: black;
+	border-color: black;
+	border-radius: 3px;
+	margin-left: 15px;
+	padding: 7px 100px 7px 5px;
+	}
+
+.button{
+	margin-left: 85px;
+	padding-left: 40px;
+	padding-right: 40px;
+	color: white;
+	background-color: green;
+}
